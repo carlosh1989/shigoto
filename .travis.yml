@@ -3,7 +3,6 @@ php:
   - 5.6
   - 7.1
 script: 
-  - sudo ./cli/config/Run.sh
-  - sudo ./cli/cli.sh
-  - ./cli/composer/composer.phar install
+  - sudo ./cli/install/config.sh
+  - box
 
