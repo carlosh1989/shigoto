@@ -300,7 +300,7 @@ else
 	dialog --begin 10 30 --backtitle "Framework ODA" \--title "About" \--msgbox 'Se instalaran todas las dependencias necesarias.' 10 30
 	clear
 	./cli/composer/composer.phar install
-	./vendor/bin/bowerphp install
+	#./vendor/bin/bowerphp install
 	#COMANDO PARA INSTALAR EL MODULO AUTH O EL MODULO HOME
 	./cli/install/run.sh	
 fi
