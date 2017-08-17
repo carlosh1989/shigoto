@@ -1,12 +1,12 @@
 {
-    "name": "carlosh1989/oda",
-    "description": "framework de la ODA",
+    "name": "carlosh1989/shigoto",
+    "description": "framework SHIGOTO",
     "version": "v1.0.1",
     "license": "MIT",
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/carlosh1989/ODA"
+            "url": "https://github.com/carlosh1989/shigoto"
         }
     ],
     "authors": [
