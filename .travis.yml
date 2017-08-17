@@ -4,5 +4,6 @@ php:
   - 7.1
 script: 
   - sudo ./cli/install/config.sh
-  - box
+  - sudo ./cli/cli.sh
+  - ./cli/composer/composer.phar install
 
