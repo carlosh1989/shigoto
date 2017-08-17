@@ -12,7 +12,7 @@
 ##INSTALACIÓN
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde necessitatibus quidem quis velit et tempore, voluptas adipisci! Porro, odio alias dignissimos architecto numquam praesentium inventore laudantium necessitatibus voluptatem, perspiciatis voluptate..
 
-.
+..
 https://www.bootply.com/nZaxpxfiXz
 
 
